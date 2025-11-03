@@ -15,7 +15,7 @@ O objetivo foi criar uma experiência de usuário completa, desde a apresentaç�
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
 
-**[Clique aqui para ver o projeto ao vivo](https://tacila-souza.github.io/projeto-bootstrp/)**
+**[Clique aqui para ver o projeto ao vivo](https://tacila-souza.github.io/LandingPage-CursoBackEnd-SENAI-PE/)**
 
 
 ## ✨ Funcionalidades Principais
